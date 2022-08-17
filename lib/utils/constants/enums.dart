@@ -1,0 +1,1 @@
+enum ProviderState { BUSY, AVAILABLE }
