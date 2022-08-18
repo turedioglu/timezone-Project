@@ -1,16 +1,27 @@
 # timezone_by_area
 
-A new Flutter project.
+Dünya Saatleri Uygulaması.
 
-## Getting Started
+## Uygulamaya Başlarken :
 
-This project is a starting point for a Flutter application.
+Uygulama Flutter 2.10.3 versiyonunda kodlanmıştır.
 
-A few resources to get you started if this is your first Flutter project:
+Uygulamaya Android / IOS uygulama görünüm logosu dahil edilmiştir.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Uygulamada Android / IOS native splash ekranı bulunmaktadır.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Uygulamaya Unit Test yazılmıştır.
+
+
+## Uygulamaya Ait Ekran Görüntüleri :
+
+<img src="assets/images/splash_screen.png" width="150"/> <img src="assets/images/dark_home_screen.png" width="150"/> <img src="assets/images/dark_search_screen.png" width="150"/> <img src="assets/images/dark_no_found_screen.png" width="150"/>  <img src="assets/images/dark_detail_screen.png" width="150"/> <img src="assets/images/light_home_screen.png" width="150"/> <img src="assets/images/light_search_screen.png" width="150"/> <img src="assets/images/light_no_location_screen.png" width="150"/>  <img src="assets/images/light_detail_screen.png" width="150"/> 
+
+
+## Uygulama Videosu :
+
+
+
+
+https://user-images.githubusercontent.com/32618134/185375601-c4b71fbc-9d31-4fd7-b5c7-0d59460be328.mp4
+
