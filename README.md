@@ -17,7 +17,7 @@ Uygulamaya Unit Test yazılmıştır.
 
 ## Uygulamaya Ait Ekran Görüntüleri :
 
-<img src="assets/images/app_logo_name.png" width="150"/> <img src="assets/images/splash_screen.png" width="150"/> <img src="assets/images/dark_home_screen.png" width="150"/> <img src="assets/images/dark_search_screen.png" width="150"/> <img src="assets/images/dark_no_found_screen.png" width="150"/>  <img src="assets/images/dark_detail_screen.png" width="150"/> <img src="assets/images/light_home_screen.png" width="150"/> <img src="assets/images/light_search_screen.png" width="150"/> <img src="assets/images/light_no_location_screen.png" width="150"/>  <img src="assets/images/light_detail_screen.png" width="150"/> <img src="assets/images/unit_test_result.png" width="760"/> 
+<img src="assets/images/app_logo_name.png" width="150"/> <img src="assets/images/splash_screen.png" width="150"/> <img src="assets/images/dark_home_screen.png" width="150"/> <img src="assets/images/dark_search_screen.png" width="150"/> <img src="assets/images/dark_no_found_screen.png" width="150"/>  <img src="assets/images/dark_detail_screen.png" width="150"/> <img src="assets/images/light_home_screen.png" width="150"/> <img src="assets/images/light_search_screen.png" width="150"/> <img src="assets/images/light_no_location_screen.png" width="150"/>  <img src="assets/images/light_detail_screen.png" width="150"/> <img src="assets/images/unit_test_result.png" width="770"/> 
 
 
 ## Uygulama Videosu :
