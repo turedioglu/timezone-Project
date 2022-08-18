@@ -10,6 +10,8 @@ Uygulamaya Android / IOS uygulama görünüm logosu dahil edilmiştir.
 
 Uygulamada Android / IOS native splash ekranı bulunmaktadır.
 
+Uygulamada kullanılan gerekli fontlar dahil edilmiştir.
+
 Uygulamaya Unit Test yazılmıştır.
 
 
