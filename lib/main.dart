@@ -13,15 +13,15 @@ import 'package:timezone_by_area/utils/settings/theme.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
-  // Orientation setup
+
   SystemChrome.setPreferredOrientations(
     [DeviceOrientation.portraitUp],
   );
 
-  // Locator setup
+
   setupLocator();
 
-  // Translator setup
+
   await translator.init(
     localeType: LocalizationDefaultType.asDefined,
     language: AppConstants.CURRENT_LANGUAGE,
@@ -35,7 +35,6 @@ void main() async {
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
-  // This widget is the root of application.
   @override
   Widget build(BuildContext context) {
     return ViewModelBuilder.reactive(
