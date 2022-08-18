@@ -10,12 +10,14 @@ Uygulamaya Android / IOS uygulama görünüm logosu dahil edilmiştir.
 
 Uygulamada Android / IOS native splash ekranı bulunmaktadır.
 
+Uygulamada kullanılan gerekli fontlar dahil edilmiştir.
+
 Uygulamaya Unit Test yazılmıştır.
 
 
 ## Uygulamaya Ait Ekran Görüntüleri :
 
-<img src="assets/images/splash_screen.png" width="150"/> <img src="assets/images/dark_home_screen.png" width="150"/> <img src="assets/images/dark_search_screen.png" width="150"/> <img src="assets/images/dark_no_found_screen.png" width="150"/>  <img src="assets/images/dark_detail_screen.png" width="150"/> <img src="assets/images/light_home_screen.png" width="150"/> <img src="assets/images/light_search_screen.png" width="150"/> <img src="assets/images/light_no_location_screen.png" width="150"/>  <img src="assets/images/light_detail_screen.png" width="150"/> 
+<img src="assets/images/app_logo_name.png" width="150"/> <img src="assets/images/splash_screen.png" width="150"/> <img src="assets/images/dark_home_screen.png" width="150"/> <img src="assets/images/dark_search_screen.png" width="150"/> <img src="assets/images/dark_no_found_screen.png" width="150"/>  <img src="assets/images/dark_detail_screen.png" width="150"/> <img src="assets/images/light_home_screen.png" width="150"/> <img src="assets/images/light_search_screen.png" width="150"/> <img src="assets/images/light_no_location_screen.png" width="150"/>  <img src="assets/images/light_detail_screen.png" width="150"/> 
 
 
 ## Uygulama Videosu :
